@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+#assignment-instructions{
+    color: black;
+    font-family: inherit;
+}
+.second-code{
+    color: green;
+}
+ code{
+    font-family: monospace;
+    color: red;
+}
+li+li{/*hyna anta awl wa7ed msh hyt2sr el hyt2sr 
+    bs tany wa7ed 3ashan anta 2oltalo el sibling of first one bel plus dy*/
+    background: black;
+    color: white;
+}
+ol li{
+    background: black;
+    color: white;
+}
